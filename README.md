@@ -1,3 +1,9 @@
+<div class="filament-hidden">
+
+![laravel-zero-support](https://raw.githubusercontent.com/jeffersongoncalves/laravel-zero-support/main/art/jeffersongoncalves-laravel-zero-support.png)
+
+</div>
+
 # laravel-zero-support
 
 Reusable base utilities shared by [Laravel Zero](https://laravel-zero.com) CLI tools. It provides cross-OS home/config directory resolution, opening URLs in the default browser, and secure JSON file writing - the small pieces of glue every CLI ends up reimplementing.
