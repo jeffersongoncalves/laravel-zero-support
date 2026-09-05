@@ -6,6 +6,8 @@
 
 # laravel-zero-support
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
+
 Reusable base utilities shared by [Laravel Zero](https://laravel-zero.com) CLI tools. It provides cross-OS home/config directory resolution, opening URLs in the default browser, and secure JSON file writing - the small pieces of glue every CLI ends up reimplementing.
 
 ## Why
